@@ -1,0 +1,39 @@
+.page {
+    background: #f2f7de;
+    padding: .3em 1em;
+}
+
+.picturebox {
+    background: #fffff4;
+    height: auto;
+    width: auto;
+    margin: 1em 0;
+    padding: .1em 0;
+}
+
+.main-img {
+    display: block;
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    margin: 1em auto;
+}
+
+.textbox {
+    height: auto;
+    width: 90%;
+    margin: 1em auto;
+}
+
+.textbox--center {
+    text-align: center;
+}
+
+.textbox--narrow {
+    width: 50%;
+    min-width: 400px;
+}
+
+.textbox--italic {
+    font-style: italic;
+}
